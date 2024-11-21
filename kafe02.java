@@ -1,8 +1,8 @@
 public class kafe02 {
-    public static void Menu(){
-    }
+    // public static void Menu(){
+    // }
     public static void main(String[] args){
-    Menu(); 
+    // Menu(); 
             System.out.println("===== MENU RESTO KAFE =====");
             System.out.println("1. Kopi Hitam - RP 15,000");
             System.out.println("2. Cappuccino - Rp 20,000");
@@ -16,5 +16,5 @@ public class kafe02 {
         
     }
 }
-
+// menampilkan menu tanpa menggunakan fungsi menu bisa dilakukan dengan cara langsung menuliskan daftar menu langsung di dalam metode main.
     
